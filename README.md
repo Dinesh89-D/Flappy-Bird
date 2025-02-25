@@ -20,7 +20,12 @@ Press Spacebar or Mouse Click to make the bird jump
 Avoid hitting the pipes
 Earn points by passing through gaps
 Try to get the highest score!
-
+💻 Installation & Run
+Clone the repository:
+sh
+Copy
+Edit
+git clone https://github.com/yourusername/FlappyBird-Java.git
 Open the project in your preferred Java IDE (Eclipse, IntelliJ, NetBeans).
 Compile and run the Main.java file.
 📌 Future Improvements
